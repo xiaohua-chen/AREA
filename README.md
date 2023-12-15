@@ -32,7 +32,18 @@ More details will be uploaded soon.
 
 
 
+## Citation
 
+If you find this code useful for your research, please cite our paper.
+```
+@inproceedings{chen2023area,
+  title={AREA: Adaptive Reweighting via Effective Area for Long-Tailed Classification},
+  author={Chen, Xiaohua and Zhou, Yucan and Wu, Dayan and Yang, Chule and Li, Bo and Hu, Qinghua and Wang, Weiping},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={19277--19287},
+  year={2023}
+}
+```
 
 
 
