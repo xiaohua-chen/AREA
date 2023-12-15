@@ -14,7 +14,7 @@
 * The paper also reports results on iNaturalist 2018(https://github.com/visipedia/inat_comp). 
 
 
-## CIFAR100
+## CIFAR-100/10
 In the code, we calculate the accuracy.
 ```
 CIFAR-100-LT,long-tailed imabalance ratio of 200
