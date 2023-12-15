@@ -1,4 +1,4 @@
-# Adaptive Reweighting Based on the Effective Area of Feature Space for Long-Tailed Classification (ICCV 2023)
+# AREA: Adaptive Reweighting via Effective Area for Long-Tailed Classification (ICCV 2023)
 
 ## Prerequisite
 * PyTorch >= 1.2.0
