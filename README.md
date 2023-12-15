@@ -33,12 +33,7 @@ More details will be uploaded soon.
 
 
 
-```
 
-python AREA_cifar_rebutt.py --gpu 3 --imb_type exp --imb_factor 0.1 --batch-size 64 --loss_type CE --dataset cifar100 --train_rule None 
-
-
-```
 
 
 
